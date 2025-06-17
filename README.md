@@ -19,7 +19,8 @@ This home lab is designed to build hands-on skills in system administration, use
 
 Step 1: Setting Up my Environment
 
-1. Navigated to  `https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022`. 
+1. Navigated to `https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019`. 
 2. Click “Download the ISO”.
+3. **Note:** Better for beginners since it has the Desktop Experience.
 
 *Ref 1: Server ISO*
