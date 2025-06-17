@@ -5,9 +5,9 @@ This home lab is designed to build hands-on skills in system administration, use
 
 ### Skills Learned
 
-- Navigating and using Windows environments (for educational purposes)
-- Building system administration skills in a virtual setup
-- Practicing troubleshooting methods for users, systems, and hardware
+- Navigating and using Windows environments (for educational purposes).
+- Building system administration skills in a virtual setup.
+- Practicing troubleshooting methods for users, systems, and hardware.
 
 ### Tools Used
 
@@ -19,7 +19,7 @@ This home lab is designed to build hands-on skills in system administration, use
 
 Step 1: Setting Up my Environment
 
-1. Navigated to  `https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022` 
-2. Click “Download the ISO”
+1. Navigated to  `https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022`. 
+2. Click “Download the ISO”.
 
 *Ref 1: Server ISO*
