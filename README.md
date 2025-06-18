@@ -18,7 +18,7 @@ This home lab is designed to build hands-on skills in system administration, use
 
 ## Steps
 
-Step 1: Setting Up my Environment
+Step 1: Setting Up my Environment (Windows Server Install)
 
 1. Navigated to `https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019`. 
 2. Click “Download the ISO”.
