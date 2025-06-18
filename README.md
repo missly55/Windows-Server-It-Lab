@@ -22,5 +22,6 @@ Step 1: Setting Up my Environment
 
 1. Navigated to `https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019`. 
 2. Click “Download the ISO”.
+3. In Virtualbox, click New > Name: `WinServer2019` > Select Skip Unattended Installation
 
 *Ref 1: Server ISO*
