@@ -5,7 +5,7 @@ This home lab is designed to build hands-on skills in system administration, use
 
 ### Skills Learned
 
-- Navigating and using Windows environments (for educational purposes).
+- Navigating and using Windows environment (for educational purposes).
 - Building system administration skills in a virtual setup.
 - Practicing troubleshooting tasks for users, systems, and hardware.
 
