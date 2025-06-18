@@ -25,3 +25,10 @@ Step 1: Setting Up my Environment
 3. In Virtualbox, click New > Name: `WinServer2019` > Select Skip Unattended Installation
 
 *Ref 1: Desktop Experience install options*
+
+
+
+*Ref 2:GUI Boot*
+
+
+
